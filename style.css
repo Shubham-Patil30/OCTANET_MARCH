@@ -115,8 +115,8 @@ ul{
 /* navbar */
 
 .company-logo img{
-    width: 100px;
-    height: 100px;
+    width: 180px;
+    height: 180px;
 }
 
 .main-nav{
@@ -207,7 +207,7 @@ color: var(--primary-text-color);
 /* footer */
 
 .logo img {
-    width: 200px;
+    width: 250px;
 }
 .link-col {
     flex-direction: column;
@@ -218,6 +218,7 @@ color: var(--primary-text-color);
 .footer-container{
     align-items: flex-start;
     justify-content: space-between;
+    align-items: center;
 }
 footer{
     padding-block: 80px;
